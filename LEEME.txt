@@ -1,0 +1,10 @@
+Empaquetador de apps - versión PWA
+
+Archivos: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png
+
+Para usarla como app en el celular:
+1. Publica estos archivos en un hosting con HTTPS (GitHub Pages, Netlify o Cloudflare Pages, todos gratis).
+2. Abre la dirección en Chrome (Android) o Safari (iPhone).
+3. Android: menú de Chrome > Instalar app. iPhone: Compartir > Agregar a pantalla de inicio.
+
+Funciona sin internet después de la primera visita.
